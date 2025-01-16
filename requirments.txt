@@ -1,0 +1,7 @@
+streamlit
+openai
+Pillow
+requests
+azure-ai-openai
+openai
+streamlit
