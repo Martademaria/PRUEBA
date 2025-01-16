@@ -8,8 +8,7 @@ from ktrain import text
 import shutil
 import docx
 
-
-
+# Establecer la variable de entorno para usar Keras en modo legado
 os.environ['TF_USE_LEGACY_KERAS'] = 'True'
 
 # Load environment variables from .env file
