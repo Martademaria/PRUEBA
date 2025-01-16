@@ -11,8 +11,9 @@ six
 scikit-learn>=1.1.0
 transformers==4.24.0
 numpy>=1.26.0
-chardet==4.0.0
-tokenizers==0.10.3
+cchardet==2.1.7
+tokenizers==0.11.4
+
 
 
 
