@@ -4,9 +4,11 @@ requests
 python-dotenv
 six
 ktrain
-tensorflow==2.17.0
+tensorflow==2.17.0  # O la versión compatible con tu entorno
+tf_keras
 matplotlib
 streamlit
+
 
 
 
