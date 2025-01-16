@@ -2,13 +2,11 @@ openai
 Pillow
 requests
 python-dotenv
-ktrain
 six
-streamlit
-docx
-textract
+ktrain
 tensorflow==2.10.0
 matplotlib
+streamlit
 
 
 
