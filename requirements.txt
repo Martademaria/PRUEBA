@@ -11,8 +11,9 @@ six
 scikit-learn>=1.1.0
 transformers==4.24.0
 numpy>=1.26.0
-cchardet==2.1.7
-tokenizers==0.11.4
+cchardet==2.1.7   # Mantén esta versión si está funcionando correctamente
+tokenizers==0.11.4  # Actualiza a una versión más reciente que tenga soporte de rueda
+
 
 
 
