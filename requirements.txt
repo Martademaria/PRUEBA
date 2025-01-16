@@ -2,8 +2,8 @@ openai
 Pillow
 requests
 python-dotenv
-ktrain==0.30.0
-tensorflow==2.10.0
-streamlit==1.14.0
-docx==0.2.4
-textract==1.6.3
+ktrain
+tensorflow
+streamlit
+docx
+textract
