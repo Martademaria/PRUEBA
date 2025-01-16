@@ -10,8 +10,7 @@ matplotlib
 six
 scikit-learn==0.24.2
 transformers==4.24.0
-numpy==1.21.6
-
+numpy==1.26.0
 
 
 
