@@ -1,5 +1,4 @@
 tensorflow==2.16.2
-keras==2.17.0  # Asegúrate de que la versión de Keras sea compatible con la de TensorFlow
 ktrain
 Pillow
 requests
