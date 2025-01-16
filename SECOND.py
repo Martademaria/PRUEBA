@@ -8,6 +8,9 @@ from ktrain import text
 import shutil
 import docx
 
+
+os.environ['TF_USE_LEGACY_KERAS'] = 'True'
+
 # Load environment variables from .env file
 load_dotenv()
 
