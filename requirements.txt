@@ -1,5 +1,5 @@
 tensorflow==2.17.0
-keras==2.17.0
+keras==2.15.0
 ktrain
 Pillow
 requests
@@ -7,6 +7,7 @@ python-dotenv
 six
 matplotlib
 streamlit
+
 
 
 
