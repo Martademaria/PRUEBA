@@ -1,3 +1,8 @@
+openai
+streamlit
+Pillow
+requests
+python-dotenv
 tensorflow==2.17.0
 keras==3.2.0
 ktrain
