@@ -1,13 +1,14 @@
+tensorflow==2.10.0
+keras==2.10.0
+ktrain
 openai
 Pillow
 requests
 python-dotenv
 six
-ktrain
-tensorflow==2.17.0  # O la versión compatible con tu entorno
-tf_keras
 matplotlib
 streamlit
+
 
 
 
