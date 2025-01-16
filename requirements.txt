@@ -4,9 +4,10 @@ requests
 python-dotenv
 six
 ktrain
-tensorflow==2.10.0
+tensorflow==2.17.0
 matplotlib
 streamlit
+
 
 
 
