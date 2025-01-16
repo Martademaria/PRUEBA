@@ -1,9 +1,9 @@
-openai
-streamlit
-Pillow
-requests
-python-dotenv
-tensorflow==2.18.0
+openai==1.59.7
+streamlit==1.41.1
+Pillow==11.1.0
+requests==2.32.3
+python-dotenv==1.0.1
+tensorflow>=2.10.0,<2.18.0
 keras>=3.5.0
 ktrain==0.35.0
 matplotlib
@@ -13,7 +13,8 @@ transformers==4.24.0
 numpy>=1.26.0
 tokenizers==0.13.3
 --no-binary tokenizers
-cchardet==2.1.7 --no-binary :all:
+cchardet==2.1.7
+
 
 
 
