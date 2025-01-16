@@ -8,9 +8,10 @@ keras==2.12.0
 ktrain==0.35.0
 matplotlib
 six
-scikit-learn==1.0.2
+scikit-learn>=1.1.0
 transformers==4.24.0
 numpy>=1.26.0
+
 
 
 
