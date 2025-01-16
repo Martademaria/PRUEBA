@@ -9,6 +9,7 @@ import shutil
 import docx
 
 
+
 os.environ['TF_USE_LEGACY_KERAS'] = 'True'
 
 # Load environment variables from .env file
