@@ -9,9 +9,6 @@ import re
 # Load environment variables from .env file
 load_dotenv()
 
-# Load environment variables from .env file
-load_dotenv()
-
 # Retrieve keys from environment variables
 ENDPOINT = os.getenv("AZURE_ENDPOINT")
 DEPLOYMENT_NAME = os.getenv("AZURE_DEPLOYMENT_NAME")
