@@ -3,8 +3,8 @@ streamlit
 Pillow
 requests
 python-dotenv
-tensorflow==2.10.1
-keras==2.10.0
+tensorflow==2.12.0
+keras==2.12.0
 ktrain==0.35.0
 matplotlib
 six
