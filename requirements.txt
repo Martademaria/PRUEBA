@@ -3,7 +3,7 @@ streamlit==1.41.1
 Pillow==11.1.0
 requests==2.32.3
 python-dotenv==1.0.1
-tensorflow>=2.18.0
+tensorflow==2.18.0
 keras>=3.5.0
 ktrain==0.35.0
 matplotlib
@@ -11,8 +11,9 @@ six
 scikit-learn>=1.1.0
 transformers==4.24.0
 numpy>=1.26.0
-tokenizers==0.13.3
-cchardet==2.1.7
+tokenizers==0.13.3 --no-binary tokenizers
+cchardet==2.1.7 --no-binary :all:
+
 
 
 
