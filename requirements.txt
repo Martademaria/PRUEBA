@@ -11,8 +11,10 @@ six
 scikit-learn>=1.1.0
 transformers==4.24.0
 numpy>=1.26.0
-chardet  # Reemplaza cchardet con chardet
-tokenizers==0.13.0  # Usa una versión anterior de tokenizers
+tokenizers==0.13.3 --no-binary :all:
+cchardet==2.1.7 --no-binary :all:
+
+
 
 
 
