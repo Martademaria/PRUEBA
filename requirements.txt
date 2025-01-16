@@ -1,13 +1,14 @@
-tensorflow==2.12.0
-keras==2.12.0
-ktrain
-streamlit
 openai
+streamlit
 Pillow
 requests
 python-dotenv
-six
+tensorflow==2.12.0
+keras==2.12.0
+ktrain
 matplotlib
+six
+
 
 
 
