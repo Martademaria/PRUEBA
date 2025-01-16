@@ -3,7 +3,11 @@ Pillow
 requests
 python-dotenv
 ktrain
-tensorflow
 streamlit
 docx
 textract
+tensorflow==2.10.0
+matplotlib
+six
+
+
