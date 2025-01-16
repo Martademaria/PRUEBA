@@ -3,14 +3,14 @@ streamlit
 Pillow
 requests
 python-dotenv
-tensorflow==2.12.0
-keras==2.12.0
+tensorflow==2.10.1
+keras==2.10.0
 ktrain==0.35.0
 matplotlib
 six
-scikit-learn==0.24.2  # Necesario para ktrain
-transformers==4.24.0  # Asegura compatibilidad con ktrain
-numpy==1.21.6  # Compatible con TensorFlow 2.12.0
+scikit-learn==0.24.2
+transformers==4.24.0
+numpy==1.21.6
 
 
 
