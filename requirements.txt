@@ -3,7 +3,7 @@ openai==1.59.7
 Pillow
 requests
 python-dotenv
-transformers==4.23.1
+transformers==4.17.0
 ktrain==0.32.3
 scikit-learn>=1.1.0
 numpy
@@ -17,7 +17,8 @@ fastai
 seaborn
 sentence-transformers
 tqdm
-tensorflow==2.18.0
+tensorflow==2.11.0
+
 
 
 
