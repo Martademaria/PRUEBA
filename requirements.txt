@@ -1,23 +1,13 @@
-streamlit==1.41.1
-openai==1.59.7
-Pillow
-requests
+streamlit
+transformers
+ktrain
+tensorflow
 python-dotenv
-transformers==4.17.0
-ktrain==0.32.3
-scikit-learn>=1.1.0
-numpy
-matplotlib
-six
-nltk
-spacy
+requests
 pandas
-torch
-fastai
-seaborn
-sentence-transformers
 tqdm
-tensorflow==2.11.0
+spacy
+sentencepiece
 
 
 
