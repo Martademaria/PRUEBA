@@ -6,7 +6,8 @@ python-dotenv                 # Carga de variables de entorno
 requests                      # Realizar solicitudes HTTP
 pandas                        # Manejo de DataFrames
 tqdm                          # Barras de progreso                       # Procesamiento de texto (opcional, sin versión específica)
-sentencepiece                 # Tokenización para Transformers
+sentencepiece    
+chardet # Tokenización para Transformers
 
 
 
