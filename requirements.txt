@@ -1,14 +1,14 @@
 streamlit
-transformers         # Versión compatible con DeBERTa
-ktrain==0.35.0                # Requiere TensorFlow 2.12.0 para funcionar
-tensorflow>=2.13.0            # Última versión compatible con Keras 2 y ktrain
-python-dotenv                 # Carga de variables de entorno
-requests                      # Realizar solicitudes HTTP
-pandas                        # Manejo de DataFrames
-tqdm                          # Barras de progreso                       # Procesamiento de texto (opcional, sin versión específica)
-sentencepiece    
-chardet ==3.0.4
-cchardet ==2.1.7
+transformers           # Compatible con DeBERTa
+ktrain==0.35.0         # Requiere TensorFlow 2.12.0 para funcionar
+tensorflow>=2.13.0     # Última versión compatible con Keras 2 y ktrain
+python-dotenv          # Carga de variables de entorno
+requests               # Realizar solicitudes HTTP
+pandas                 # Manejo de DataFrames
+tqdm                   # Barras de progreso
+sentencepiece          # Procesamiento de texto
+chardet==3.0.4         # Alternativa a cchardet
+
 
 
 
