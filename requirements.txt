@@ -1,18 +1,24 @@
-openai==1.59.7
 streamlit==1.41.1
-Pillow==11.1.0
-requests==2.32.3
-python-dotenv==1.0.1
-tensorflow==2.18.0
-keras>=3.5.0
+openai==1.59.7
+Pillow
+requests
+python-dotenv
+transformers==4.24.0
 ktrain==0.35.0
+scikit-learn>=1.1.0
+numpy
 matplotlib
 six
-scikit-learn>=1.1.0
-transformers==4.24.0
-numpy>=1.26.0
-tokenizers==0.13.3
-cchardet==2.1.7
+nltk
+spacy
+pandas
+torch
+fastai
+seaborn
+sentence-transformers
+tqdm
+tensorflow==2.15.1
+
 
 
 
