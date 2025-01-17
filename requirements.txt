@@ -1,13 +1,14 @@
 streamlit
 transformers
 ktrain
-tensorflow
+tensorflow==2.11.0
 python-dotenv
 requests
 pandas
 tqdm
 spacy
 sentencepiece
+
 
 
 
